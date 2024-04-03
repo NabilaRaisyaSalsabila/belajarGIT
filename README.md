@@ -16,4 +16,4 @@ Daftar perintah GIT
 6. git commit -m "deskripsi"
 7. git checkout main
 8. git merge 'cabang'
-9. git push origin main =======
+9. git push origin main
